@@ -1,0 +1,15 @@
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ProjCar01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ProjCar01.AssemblyInfoInputs.cache
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ProjCar01.AssemblyInfo.cs
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ProjCar01.csproj.CoreCompileInputs.cache
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\bin\Debug\net5.0\ProjCar01.exe
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\bin\Debug\net5.0\ProjCar01.deps.json
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\bin\Debug\net5.0\ProjCar01.runtimeconfig.json
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\bin\Debug\net5.0\ProjCar01.runtimeconfig.dev.json
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\bin\Debug\net5.0\ProjCar01.dll
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\bin\Debug\net5.0\ProjCar01.pdb
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ProjCar01.dll
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\refint\ProjCar01.dll
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ProjCar01.pdb
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ProjCar01.genruntimeconfig.cache
+C:\Users\Maicon-Fiuza\source\repos\ProjCar01\ProjCar01\obj\Debug\net5.0\ref\ProjCar01.dll
